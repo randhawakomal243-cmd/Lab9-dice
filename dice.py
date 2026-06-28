@@ -9,7 +9,7 @@ class Die:
 
 
 # 6-sided die
-print("6-sided die rolls:")
+print("Rolling a 6-sided die:")
 die1 = Die()
 
 for _ in range(10):
