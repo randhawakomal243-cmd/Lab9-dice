@@ -16,6 +16,7 @@ for _ in range(10):
     die1.roll_die()
 
 # 10-sided die
+print("=== 10-sided die rolls ===")
 print("\n10-sided die rolls:")
 die2 = Die(10)
 
