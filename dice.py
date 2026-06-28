@@ -23,7 +23,6 @@ for _ in range(10):
     die2.roll_die()
 
 # 20-sided die
-20 side die
 print("\n20-sided die rolls:")
 die3 = Die(20)
 
