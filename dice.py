@@ -24,8 +24,10 @@ for _ in range(10):
     die2.roll_die()
 
 # 20-sided die
+print("=== 20-sided die rolls ===")
 print("\n20-sided die rolls:")
 die3 = Die(20)
 
 for _ in range(10):
     die3.roll_die()
+
